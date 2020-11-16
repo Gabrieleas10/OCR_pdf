@@ -10,4 +10,8 @@ Script runned in Terminal.
 
 ## Instalattion
 OCR lib:
+
 pip install PyPDF2
+
+
+PDF files are saved in SA folder, run the script!
