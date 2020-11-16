@@ -5,3 +5,9 @@ Scrip that resolved the problem to insert manually the clients orders of generat
 Before script: Had a dedicated person to read pdf files and insert in control excel file the new client's orders.
 
 After script: The orders are read and insert automatically.
+
+Script runned in Terminal.
+
+## Instalattion
+OCR lib:
+pip install PyPDF2
